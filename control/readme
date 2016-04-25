@@ -1,0 +1,7 @@
+#this is a package providing interfaces for up package(gui),and capsule low package(file)
+#这是一个包装了底层模块(file)并且向上层模块(gui)提供接口的模块
+
+
+
+input:	inString
+output:	outString
